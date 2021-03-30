@@ -1,2 +1,2 @@
-# Adm.User
+# Adm.Users
 CRUD example
