@@ -2,7 +2,8 @@
 ## CRUD example :star:
 
 ### Projeto :space_invader:
-Este projeto é um **CRUD** simples. Foi criado utilizando o Entity Framework Core, as Controllers e as Views foram geradas automaticamente utilizando o **Scaffolding**.
+Este projeto é um **CRUD** simples. Foi criado utilizando o Entity Framework Core.
+As Controllers e as Views foram geradas automaticamente utilizando o **Scaffolding**.
 
 ### Banco de Dados :large_blue_diamond:
 No exemplo criamos três tabelas que se relacionam, sendo elas:
