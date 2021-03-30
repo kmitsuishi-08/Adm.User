@@ -7477,11 +7477,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Study\\Adm.Web\\Adm.Web\\Adm.Web.csproj",
+      "projectUniqueName": "E:\\Adm.Web\\Adm.Web\\Adm.Web.csproj",
       "projectName": "Adm.Web",
-      "projectPath": "E:\\Study\\Adm.Web\\Adm.Web\\Adm.Web.csproj",
+      "projectPath": "E:\\Adm.Web\\Adm.Web\\Adm.Web.csproj",
       "packagesPath": "C:\\Users\\Kelly Naomi\\.nuget\\packages\\",
-      "outputPath": "E:\\Study\\Adm.Web\\Adm.Web\\obj\\",
+      "outputPath": "E:\\Adm.Web\\Adm.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
