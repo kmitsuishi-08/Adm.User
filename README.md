@@ -11,7 +11,7 @@ No exemplo foi criado três tabelas que se relacionam, sendo elas:
 - Permission
 - PermissionUser
 
-Onde um usuário pode ter mais do que 1 permissão, e uma única permissão pode está adicionada para vários usuários.
+Onde um usuário pode ter mais do que 1 permissão, e uma única permissão pode ser adicionada para vários usuários.
 As tabelas foram criadas no SQL Server Developer 2019, utilizando os scripts que estão disponíveis no arquivo **ScriptsDB.sql**
 
 ### Objetivo :pencil:
